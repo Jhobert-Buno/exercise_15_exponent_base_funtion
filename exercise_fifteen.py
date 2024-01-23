@@ -10,4 +10,12 @@ exponent2 = 4
 
 # funtions
 
+def exponent (base, exp):
+    if exp > 0:
+        print (f"{base} raise to the power of {exp}: {base**exp}\n")
+
+
+
+
+
 
